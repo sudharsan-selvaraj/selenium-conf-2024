@@ -1,0 +1,1 @@
+curl -o $PWD/ca.pem https://raw.githubusercontent.com/AppiumTestDistribution/appium-interceptor-plugin/master/certificate/certs/ca.pem
